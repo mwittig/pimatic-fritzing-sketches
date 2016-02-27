@@ -3,4 +3,4 @@ A collection of fritzing sketches contributed by the pimatic community
 
 wip
 
-[EspPimatic sketches](https://raw.githubusercontent.com/mwittig/pimatic-fritzing-sketches/master/esp-pimatic/README.md)
+[EspPimatic sketches](https://github.com/mwittig/pimatic-fritzing-sketches/tree/master/esp-pimatic)
